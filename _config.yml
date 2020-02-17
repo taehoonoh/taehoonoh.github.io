@@ -3,11 +3,8 @@ email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
 baseurl:            "/startbootstrap-clean-blog-jekyll"
-<<<<<<< HEAD
 url:                "https://taehoonoh.github.io/"
 =======
-url:                "https://taehoonoh.github.io"
->>>>>>> d7742414d504e4f6d22e484d58b17dcd26831e93
 
 # Social Profiles
 twitter_username:   SBootstrap
