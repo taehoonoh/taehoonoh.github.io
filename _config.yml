@@ -24,5 +24,5 @@ plugins:
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
 
-disqus_url:<http://disqus.com/by/taehoonohgithubio>
-disqus_id:<taehoonohgithubio>
+# disqus_url:http://disqus.com/by/taehoonohgithubio
+# disqus_id:taehoonohgithubio
