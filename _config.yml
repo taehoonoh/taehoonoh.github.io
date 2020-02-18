@@ -4,6 +4,10 @@ description:        어서오세요
 author:             Start Bootstrap
 baseurl:            ""
 url:                "https://taehoonoh.github.io"
+comment:
+    type: disqus
+    shortname: taehoonohgithubio
+
 
 # Social Profiles
 twitter_username:   SBootstrap
