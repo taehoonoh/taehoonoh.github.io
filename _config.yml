@@ -1,15 +1,15 @@
 title:              TAEHOON
 email:              your-email@example.com
 description:        어서오세요
-author:             Start Bootstrap
+author:             taehoonoh
 baseurl:            ""
 url:                "https://taehoonoh.github.io"
 
 
 # Social Profiles
-twitter_username:   SBootstrap
+twitter_username:   #userid
 github_username:    taehoonoh
-facebook_username:  StartBootstrap
+facebook_username:  #userid
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
