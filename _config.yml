@@ -4,9 +4,6 @@ description:        어서오세요
 author:             Start Bootstrap
 baseurl:            ""
 url:                "https://taehoonoh.github.io"
-comment:
-    type: disqus
-    shortname: taehoonohgithubio
 
 
 # Social Profiles
@@ -27,6 +24,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
+disqus_shortname: taehoongithuio
 
 # disqus_url:http://disqus.com/by/taehoonohgithubio
 # disqus_id:taehoonohgithubio
