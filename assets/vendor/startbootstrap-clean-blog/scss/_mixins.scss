@@ -1,5 +1,9 @@
 // Mixins
 // Bootstrap Button Variant
+
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap');
+
+
 @mixin button-variant($color, $background, $border) {
   color: $color;
   border-color: $border;
@@ -62,6 +66,7 @@
 }
 @mixin serif-font() {
   // font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Nanum Gothic', sans-serif;
   // 폰트제거
 }
 @mixin sans-serif-font() {
